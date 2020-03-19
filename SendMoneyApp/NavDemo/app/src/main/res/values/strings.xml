@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavDemo</string>
+
+    <string name="select_message">Sending money to %s</string>
+    <string name="conf_message">Sent %s to %s</string>
+    <string name="item_view_transactions">View Transactions</string>
+    <string name="item_view_balance">View Balance</string>
+</resources>

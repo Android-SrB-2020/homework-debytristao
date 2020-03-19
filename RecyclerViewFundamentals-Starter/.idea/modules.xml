@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/7Recycler-RecyclerViewFundamentals-Starter.iml" filepath="$PROJECT_DIR$/7Recycler-RecyclerViewFundamentals-Starter.iml" group="RecyclerViewFundamentals-Starter" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerViewFundamentals-Starter.iml" filepath="$PROJECT_DIR$/RecyclerViewFundamentals-Starter.iml" group="RecyclerViewFundamentals-Starter" />
+      <module fileurl="file://$PROJECT_DIR$/app/RecyclerViewFundamentals-Starter-app.iml" filepath="$PROJECT_DIR$/app/RecyclerViewFundamentals-Starter-app.iml" group="RecyclerViewFundamentals-Starter/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="RecyclerViewFundamentals-Starter/app" />
+      <module fileurl="file://$PROJECT_DIR$/homework-BenJokela-master-7Recycler-RecyclerViewFundamentals-Starter.iml" filepath="$PROJECT_DIR$/homework-BenJokela-master-7Recycler-RecyclerViewFundamentals-Starter.iml" group="RecyclerViewFundamentals-Starter" />
+    </modules>
+  </component>
+</project>
