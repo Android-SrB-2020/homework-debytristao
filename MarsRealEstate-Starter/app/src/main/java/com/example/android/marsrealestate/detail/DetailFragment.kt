@@ -24,11 +24,7 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProviders
 import com.example.android.marsrealestate.databinding.FragmentDetailBinding
 
-/**
- * This [Fragment] shows the detailed information about a selected piece of Mars real estate.
- * It sets this information in the [DetailViewModel], which it gets as a Parcelable property
- * through Jetpack Navigation's SafeArgs.
- */
+
 class DetailFragment : Fragment() {
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?,
                               savedInstanceState: Bundle?): View? {
